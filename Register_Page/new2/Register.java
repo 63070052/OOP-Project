@@ -95,7 +95,7 @@ public class Register extends javax.swing.JFrame {
         jLabel4.setForeground(new java.awt.Color(255, 255, 255));
         jLabel4.setText("สีรถ");
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\User\\Desktop\\OOP\\Project\\omg\\submit.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/title1.png")); // NOI18N
 
         jPasswordField1.setText("jPasswordField1");
 

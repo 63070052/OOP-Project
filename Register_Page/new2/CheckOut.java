@@ -114,7 +114,7 @@ public class CheckOut extends javax.swing.JFrame {
         Time.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         Time.setText("เวลาออก");
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/title2.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/title2.png"))); // NOI18N
 
         day.setBackground(new java.awt.Color(190, 138, 255));
         day.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31" }));
